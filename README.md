@@ -29,3 +29,4 @@ and cd the "cafe.html" file
 
 
 
+![cafe-co preview](https://user-images.githubusercontent.com/34638854/195738026-8c3e4c7d-ea7c-4f48-9f1f-a835e758a19d.png)
