@@ -23,7 +23,8 @@ It is dynamic with minimal designs and content
 To deploy this project run
 
 ```
-To run this project, navigate into "cafe-co" folder
+To run this project, "git clone" on command line 
+navigate into "cafe-co" folder
 and cd the "cafe.html" file
 ```
 
